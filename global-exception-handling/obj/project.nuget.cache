@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "NqRR8LqkMTzqkQcRvrF6R4lgZJxvgfA5bKfjk0QkWy2tEymA7wIE/3tkBSX/mVu+Q2e1zFvs+AM+1vR5G0CxTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\.net-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\Ibrahima\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
