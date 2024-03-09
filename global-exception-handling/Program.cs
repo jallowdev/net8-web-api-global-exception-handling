@@ -1,3 +1,4 @@
+using global_exception_handling.domains.services;
 using global_exception_handling.exceptions;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -5,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+
+builder.Services.AddScoped<IProductService, ProductService>();
 
 // add DI for Midelwar handling Error
 builder.Services.AddExceptionHandler<GlobalExceptionHandler>();
