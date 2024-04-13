@@ -434,11 +434,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\.net-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
+      "projectUniqueName": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\net8-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
       "projectName": "global-exception-handling",
-      "projectPath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\.net-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
+      "projectPath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\net8-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
       "packagesPath": "C:\\Users\\Ibrahima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\.net-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling\\obj\\",
+      "outputPath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\net8-web-api-global-exception-handling\\global-exception-handling\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -466,6 +466,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -496,7 +501,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

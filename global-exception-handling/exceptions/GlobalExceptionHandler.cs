@@ -22,7 +22,7 @@ public class GlobalExceptionHandler: IExceptionHandler
             message = exception.Message;
             status = StatusCodes.Status400BadRequest;
             title = "Bad Request";
-        } else if (exception is NotFoundException || exception is KeyNotFoundException) {
+        } else if (exception is NotFoundException or KeyNotFoundException) {
             message = exception.Message;
             status = StatusCodes.Status404NotFound;
             title = "NotFound";
@@ -45,8 +45,8 @@ public class GlobalExceptionHandler: IExceptionHandler
         var problemDetails = new ProblemDetails()
         {
             Status = status,
-            Title = "Bad Request",
-            Detail = exception.Message
+            Title = title,
+            Detail = message
         };
 
         httpContext.Response.StatusCode = problemDetails.Status.Value;

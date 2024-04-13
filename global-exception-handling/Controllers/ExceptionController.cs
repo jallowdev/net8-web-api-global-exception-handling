@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace global_exception_handling.Controllers;
 
 [ApiController]
-[Route("[controller]")]
+[Route("api/[controller]")]
 public class ExceptionController : Controller
 {
     [Route("bad-request")]

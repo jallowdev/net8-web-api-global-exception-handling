@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NqRR8LqkMTzqkQcRvrF6R4lgZJxvgfA5bKfjk0QkWy2tEymA7wIE/3tkBSX/mVu+Q2e1zFvs+AM+1vR5G0CxTQ==",
+  "dgSpecHash": "+3I6Uewcgf5L5UBBjxweWwv93t+iAOFXkMPoBXqaXUHIpFKONvZI+TZxKMAwQGT9OUGw58jBDzjtGQkdYrTofw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\.net-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
+  "projectFilePath": "C:\\Users\\Ibrahima\\Documents\\diallo\\projects\\.NET 8\\webapi\\net8-web-api-global-exception-handling\\global-exception-handling\\global-exception-handling.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Ibrahima\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\Ibrahima\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

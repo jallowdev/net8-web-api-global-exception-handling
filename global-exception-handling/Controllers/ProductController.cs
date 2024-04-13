@@ -25,6 +25,13 @@ public class ProductController:Controller
     [HttpPost]
     public IActionResult PostProducts(ProductRequest request)
     {
+        /*var model = ModelState;
+        if (!model.IsValid)
+        {
+            ModelState.
+            return Results.ValidationProblem(model);
+            throw new BadHttpRequestException("model.ExceptBy");
+        }*/
         return Ok(_productService.CreateProduct(request));
     }
     
